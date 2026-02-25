@@ -1,0 +1,40 @@
+#Automation and Scripting Projects
+
+A collection of Python automation and scripting projects designed to process data,extract insights, and simplify repitive tasks.
+
+##Projects
+|Project|Description|
+|--------|----------|
+|[CSV Merger](csv -merger)|Merges CSVs from the seed data file or data-set folder ,creates summary sheets,pivot tables, and bar charts.Handles CSVs of 10,000 rows efficiently.|
+|[Footabll Info Scrapper](football-info-scraper)|Scrape specific information about foootball news from a website.|
+|[Email Report Sender](email -report -sender)|Automatcally sends an email reports on set periods.|
+|[File Sorter](file-sorter)|GUI application(Pyside6) and command line appp to organize files by type(videos,documents,photos) and creation year.|
+|[PDF Table Extractor](football-info-scraper)|Extracts tables from pdf files into structured formats.|
+|[Web Scrapers](football-info-scraper)|Scripts to scrape entire websites with pagination support for large datasets.|
+
+##Skills Acquired
+ 1.Python scripting and automation.
+ 2.Data Extraction and CSV manuplation.
+ 3.File system management and GUI development.
+ 4.PDF table extraction.
+ 5.Web scraping and paginaton handling.
+ 6.Reporting and visualization(bar charts,pivot tables)
+ 7.Working with large datasets(10,000 rows of data)
+
+##Future Improvements
+  1.Add logging .
+  2.Convert GUI app into a standalone excutable.
+  3.Improve PDF extraction accuracy with more formats.
+  4.Expand web scrapers to handle mutliple websites dynamically.
+  5.Integrate automated tests for all scripts.
+  
+>Each folder contains scripts ,sample data, and genearted outputs where applicable.
+
+##How to run
+
+1.Install Python 3.8(http://www.python.org/) and necessary requirements from requirements.txt(pip install -r requrements.txt)
+2.Navigate to the project folder.
+3.Run the file
+
+'''bash
+python filename.py or py filename.py
