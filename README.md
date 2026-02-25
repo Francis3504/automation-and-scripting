@@ -13,8 +13,8 @@ A collection of Python automation and scripting projects designed to process dat
 |[Web Scrapers](web-scrapera)|Scripts to scrape entire websites with pagination support for large datasets.|
 
 ##Skills Acquired
- Python scripting and automation.
- Data Extraction and CSV manuplation.
+ 1. Python scripting and automation.
+ 2. Data Extraction and CSV manuplation.
  File system management and GUI development.
  PDF table extraction.
  Web scraping and paginaton handling.
