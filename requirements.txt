@@ -1,0 +1,17 @@
+bs4==0.0.2
+Faker==37.12.0
+lxml==6.0.2
+matplotlib==3.10.7
+matplotlib-inline==0.2.1
+numpy==2.2.6
+openpyxl==3.1.5
+pandas==2.3.3
+PySide6==6.10.1
+PySide6_Addons==6.10.1
+PySide6_Essentials==6.10.1
+requests==2.32.5
+requests-oauthlib==2.0.0
+seaborn==0.13.2
+selenium==4.38.0
+
+
