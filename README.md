@@ -5,7 +5,7 @@ A collection of Python automation and scripting projects designed to process dat
 ##Projects
 |Project|Description|
 |--------|----------|
-|[CSV Merger](csv-merger)|Merges CSVs from the seed data file or data-set folder ,creates summary sheets,pivot tables, and bar charts.Handles CSVs of 10,000 rows efficiently.|
+|[CSV Merger Project](csv_merger_project)|Merges CSVs from the seed data file or data-set folder ,creates summary sheets,pivot tables, and bar charts.Handles CSVs of 10,000 rows efficiently.|
 |[Footabll Info Scrapper](football-info-scraper)|Scrape specific information about foootball news from a website.|
 |[Email Report Sender](email-report-sender)|Automatcally sends an email reports on set periods.|
 |[File Sorter](file-sorter)|GUI application(Pyside6) and command line appp to organize files by type(videos,documents,photos) and creation year.|
